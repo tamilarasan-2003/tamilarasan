@@ -34,7 +34,7 @@ I am a final-year student at K.S. Rangasamy College of Technology studying Infor
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
-
+</td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">    
@@ -44,7 +44,7 @@ I am a final-year student at K.S. Rangasamy College of Technology studying Infor
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
