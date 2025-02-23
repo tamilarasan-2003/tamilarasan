@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+  
   
 
 ### <div align="center">Hi 👋, I'mTAMILARASAN J
@@ -57,7 +55,6 @@ I am a final-year student at K.S. Rangasamy College of Technology studying Infor
 
   
 
-<br/>  
 
 
 ## Connect with me  
@@ -72,30 +69,9 @@ I am a final-year student at K.S. Rangasamy College of Technology studying Infor
 </div>  
 <br/>  
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tamilarasan-2003&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent view
-<br/>  
 
-<div align="center"><img src="https://github.com/tamilarasan-2003" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
